@@ -1,0 +1,3556 @@
+{
+  "teams": [
+    {
+      "name": "Arsenal",
+      "budget": 120000000,
+      "stadium_name": "Emirates Stadium",
+      "capacity": 60704,
+      "players": [
+        {
+          "id": 1,
+          "name": "David Raya",
+          "age": 28,
+          "position": "GK",
+          "rating": 84,
+          "price": 40000000
+        },
+        {
+          "id": 2,
+          "name": "Neto",
+          "age": 35,
+          "position": "GK",
+          "rating": 78,
+          "price": 10000000
+        },
+        {
+          "id": 3,
+          "name": "William Saliba",
+          "age": 23,
+          "position": "DEF",
+          "rating": 87,
+          "price": 80000000
+        },
+        {
+          "id": 4,
+          "name": "Gabriel Magalhães",
+          "age": 26,
+          "position": "DEF",
+          "rating": 86,
+          "price": 70000000
+        },
+        {
+          "id": 5,
+          "name": "Ben White",
+          "age": 26,
+          "position": "DEF",
+          "rating": 84,
+          "price": 55000000
+        },
+        {
+          "id": 6,
+          "name": "Jurriën Timber",
+          "age": 23,
+          "position": "DEF",
+          "rating": 82,
+          "price": 45000000
+        },
+        {
+          "id": 7,
+          "name": "Riccardo Calafiori",
+          "age": 22,
+          "position": "DEF",
+          "rating": 82,
+          "price": 45000000
+        },
+        {
+          "id": 8,
+          "name": "Oleksandr Zinchenko",
+          "age": 27,
+          "position": "DEF",
+          "rating": 80,
+          "price": 30000000
+        },
+        {
+          "id": 9,
+          "name": "Takehiro Tomiyasu",
+          "age": 25,
+          "position": "DEF",
+          "rating": 80,
+          "price": 25000000
+        },
+        {
+          "id": 10,
+          "name": "Jakub Kiwior",
+          "age": 24,
+          "position": "DEF",
+          "rating": 78,
+          "price": 20000000
+        },
+        {
+          "id": 11,
+          "name": "Declan Rice",
+          "age": 25,
+          "position": "MID",
+          "rating": 87,
+          "price": 90000000
+        },
+        {
+          "id": 12,
+          "name": "Martin Ødegaard",
+          "age": 25,
+          "position": "MID",
+          "rating": 87,
+          "price": 85000000
+        },
+        {
+          "id": 13,
+          "name": "Mikel Merino",
+          "age": 28,
+          "position": "MID",
+          "rating": 83,
+          "price": 45000000
+        },
+        {
+          "id": 14,
+          "name": "Thomas Partey",
+          "age": 31,
+          "position": "MID",
+          "rating": 82,
+          "price": 30000000
+        },
+        {
+          "id": 15,
+          "name": "Jorginho",
+          "age": 32,
+          "position": "MID",
+          "rating": 80,
+          "price": 15000000
+        },
+        {
+          "id": 16,
+          "name": "Ethan Nwaneri",
+          "age": 17,
+          "position": "MID",
+          "rating": 72,
+          "price": 15000000
+        },
+        {
+          "id": 17,
+          "name": "Bukayo Saka",
+          "age": 22,
+          "position": "FWD",
+          "rating": 88,
+          "price": 100000000
+        },
+        {
+          "id": 18,
+          "name": "Kai Havertz",
+          "age": 25,
+          "position": "FWD",
+          "rating": 84,
+          "price": 60000000
+        },
+        {
+          "id": 19,
+          "name": "Gabriel Martinelli",
+          "age": 23,
+          "position": "FWD",
+          "rating": 83,
+          "price": 60000000
+        },
+        {
+          "id": 20,
+          "name": "Leandro Trossard",
+          "age": 29,
+          "position": "FWD",
+          "rating": 83,
+          "price": 40000000
+        },
+        {
+          "id": 21,
+          "name": "Gabriel Jesus",
+          "age": 27,
+          "position": "FWD",
+          "rating": 82,
+          "price": 40000000
+        },
+        {
+          "id": 22,
+          "name": "Raheem Sterling",
+          "age": 29,
+          "position": "FWD",
+          "rating": 81,
+          "price": 35000000
+        }
+      ]
+    },
+    {
+      "name": "Aston Villa",
+      "budget": 75000000,
+      "stadium_name": "Villa Park",
+      "capacity": 42640,
+      "players": [
+        {
+          "id": 23,
+          "name": "Emiliano Martínez",
+          "age": 32,
+          "position": "GK",
+          "rating": 85,
+          "price": 45000000
+        },
+        {
+          "id": 24,
+          "name": "Robin Olsen",
+          "age": 34,
+          "position": "GK",
+          "rating": 75,
+          "price": 5000000
+        },
+        {
+          "id": 25,
+          "name": "Pau Torres",
+          "age": 27,
+          "position": "DEF",
+          "rating": 84,
+          "price": 50000000
+        },
+        {
+          "id": 26,
+          "name": "Ezri Konsa",
+          "age": 26,
+          "position": "DEF",
+          "rating": 83,
+          "price": 45000000
+        },
+        {
+          "id": 27,
+          "name": "Diego Carlos",
+          "age": 31,
+          "position": "DEF",
+          "rating": 80,
+          "price": 20000000
+        },
+        {
+          "id": 28,
+          "name": "Matty Cash",
+          "age": 27,
+          "position": "DEF",
+          "rating": 80,
+          "price": 25000000
+        },
+        {
+          "id": 29,
+          "name": "Lucas Digne",
+          "age": 31,
+          "position": "DEF",
+          "rating": 80,
+          "price": 20000000
+        },
+        {
+          "id": 30,
+          "name": "Ian Maatsen",
+          "age": 22,
+          "position": "DEF",
+          "rating": 79,
+          "price": 35000000
+        },
+        {
+          "id": 31,
+          "name": "Tyrone Mings",
+          "age": 31,
+          "position": "DEF",
+          "rating": 78,
+          "price": 15000000
+        },
+        {
+          "id": 32,
+          "name": "John McGinn",
+          "age": 29,
+          "position": "MID",
+          "rating": 83,
+          "price": 40000000
+        },
+        {
+          "id": 33,
+          "name": "Amadou Onana",
+          "age": 23,
+          "position": "MID",
+          "rating": 82,
+          "price": 55000000
+        },
+        {
+          "id": 34,
+          "name": "Youri Tielemans",
+          "age": 27,
+          "position": "MID",
+          "rating": 82,
+          "price": 35000000
+        },
+        {
+          "id": 35,
+          "name": "Boubacar Kamara",
+          "age": 24,
+          "position": "MID",
+          "rating": 81,
+          "price": 40000000
+        },
+        {
+          "id": 36,
+          "name": "Jacob Ramsey",
+          "age": 23,
+          "position": "MID",
+          "rating": 80,
+          "price": 35000000
+        },
+        {
+          "id": 37,
+          "name": "Emiliano Buendía",
+          "age": 27,
+          "position": "MID",
+          "rating": 79,
+          "price": 25000000
+        },
+        {
+          "id": 38,
+          "name": "Ross Barkley",
+          "age": 30,
+          "position": "MID",
+          "rating": 78,
+          "price": 15000000
+        },
+        {
+          "id": 39,
+          "name": "Ollie Watkins",
+          "age": 28,
+          "position": "FWD",
+          "rating": 85,
+          "price": 65000000
+        },
+        {
+          "id": 40,
+          "name": "Leon Bailey",
+          "age": 27,
+          "position": "FWD",
+          "rating": 82,
+          "price": 45000000
+        },
+        {
+          "id": 41,
+          "name": "Jhon Durán",
+          "age": 20,
+          "position": "FWD",
+          "rating": 80,
+          "price": 40000000
+        },
+        {
+          "id": 42,
+          "name": "Morgan Rogers",
+          "age": 22,
+          "position": "FWD",
+          "rating": 79,
+          "price": 30000000
+        },
+        {
+          "id": 43,
+          "name": "Jaden Philogene",
+          "age": 22,
+          "position": "FWD",
+          "rating": 77,
+          "price": 20000000
+        }
+      ]
+    },
+    {
+      "name": "Bournemouth",
+      "budget": 45000000,
+      "stadium_name": "Vitality Stadium",
+      "capacity": 11307,
+      "players": [
+        {
+          "id": 44,
+          "name": "Kepa Arrizabalaga",
+          "age": 29,
+          "position": "GK",
+          "rating": 80,
+          "price": 20000000
+        },
+        {
+          "id": 45,
+          "name": "Mark Travers",
+          "age": 25,
+          "position": "GK",
+          "rating": 74,
+          "price": 5000000
+        },
+        {
+          "id": 46,
+          "name": "Illia Zabarnyi",
+          "age": 21,
+          "position": "DEF",
+          "rating": 80,
+          "price": 35000000
+        },
+        {
+          "id": 47,
+          "name": "Marcos Senesi",
+          "age": 27,
+          "position": "DEF",
+          "rating": 79,
+          "price": 25000000
+        },
+        {
+          "id": 48,
+          "name": "Milos Kerkez",
+          "age": 20,
+          "position": "DEF",
+          "rating": 78,
+          "price": 30000000
+        },
+        {
+          "id": 49,
+          "name": "Julian Araujo",
+          "age": 22,
+          "position": "DEF",
+          "rating": 76,
+          "price": 15000000
+        },
+        {
+          "id": 50,
+          "name": "Dean Huijsen",
+          "age": 19,
+          "position": "DEF",
+          "rating": 75,
+          "price": 18000000
+        },
+        {
+          "id": 51,
+          "name": "Adam Smith",
+          "age": 33,
+          "position": "DEF",
+          "rating": 74,
+          "price": 2000000
+        },
+        {
+          "id": 52,
+          "name": "Lewis Cook",
+          "age": 27,
+          "position": "MID",
+          "rating": 78,
+          "price": 20000000
+        },
+        {
+          "id": 53,
+          "name": "Tyler Adams",
+          "age": 25,
+          "position": "MID",
+          "rating": 79,
+          "price": 25000000
+        },
+        {
+          "id": 54,
+          "name": "Ryan Christie",
+          "age": 29,
+          "position": "MID",
+          "rating": 77,
+          "price": 15000000
+        },
+        {
+          "id": 55,
+          "name": "Marcus Tavernier",
+          "age": 25,
+          "position": "MID",
+          "rating": 78,
+          "price": 22000000
+        },
+        {
+          "id": 56,
+          "name": "Alex Scott",
+          "age": 20,
+          "position": "MID",
+          "rating": 77,
+          "price": 25000000
+        },
+        {
+          "id": 57,
+          "name": "Philip Billing",
+          "age": 28,
+          "position": "MID",
+          "rating": 77,
+          "price": 15000000
+        },
+        {
+          "id": 58,
+          "name": "Evanilson",
+          "age": 24,
+          "position": "FWD",
+          "rating": 80,
+          "price": 45000000
+        },
+        {
+          "id": 59,
+          "name": "Antoine Semenyo",
+          "age": 24,
+          "position": "FWD",
+          "rating": 80,
+          "price": 35000000
+        },
+        {
+          "id": 60,
+          "name": "Justin Kluivert",
+          "age": 25,
+          "position": "FWD",
+          "rating": 78,
+          "price": 25000000
+        },
+        {
+          "id": 61,
+          "name": "Luis Sinisterra",
+          "age": 25,
+          "position": "FWD",
+          "rating": 78,
+          "price": 20000000
+        },
+        {
+          "id": 62,
+          "name": "Dango Ouattara",
+          "age": 22,
+          "position": "FWD",
+          "rating": 77,
+          "price": 20000000
+        },
+        {
+          "id": 63,
+          "name": "Enes Ünal",
+          "age": 27,
+          "position": "FWD",
+          "rating": 77,
+          "price": 15000000
+        }
+      ]
+    },
+    {
+      "name": "Brentford",
+      "budget": 45000000,
+      "stadium_name": "Gtech Community Stadium",
+      "capacity": 17250,
+      "players": [
+        {
+          "id": 64,
+          "name": "Mark Flekken",
+          "age": 31,
+          "position": "GK",
+          "rating": 79,
+          "price": 15000000
+        },
+        {
+          "id": 65,
+          "name": "Hákon Valdimarsson",
+          "age": 22,
+          "position": "GK",
+          "rating": 72,
+          "price": 3000000
+        },
+        {
+          "id": 66,
+          "name": "Ethan Pinnock",
+          "age": 31,
+          "position": "DEF",
+          "rating": 79,
+          "price": 12000000
+        },
+        {
+          "id": 67,
+          "name": "Nathan Collins",
+          "age": 23,
+          "position": "DEF",
+          "rating": 78,
+          "price": 20000000
+        },
+        {
+          "id": 68,
+          "name": "Kristoffer Ajer",
+          "age": 26,
+          "position": "DEF",
+          "rating": 78,
+          "price": 18000000
+        },
+        {
+          "id": 69,
+          "name": "Rico Henry",
+          "age": 26,
+          "position": "DEF",
+          "rating": 78,
+          "price": 18000000
+        },
+        {
+          "id": 70,
+          "name": "Aaron Hickey",
+          "age": 22,
+          "position": "DEF",
+          "rating": 77,
+          "price": 22000000
+        },
+        {
+          "id": 71,
+          "name": "Sepp van den Berg",
+          "age": 22,
+          "position": "DEF",
+          "rating": 76,
+          "price": 25000000
+        },
+        {
+          "id": 72,
+          "name": "Mads Roerslev",
+          "age": 25,
+          "position": "DEF",
+          "rating": 75,
+          "price": 10000000
+        },
+        {
+          "id": 73,
+          "name": "Ben Mee",
+          "age": 34,
+          "position": "DEF",
+          "rating": 76,
+          "price": 2000000
+        },
+        {
+          "id": 74,
+          "name": "Christian Nørgaard",
+          "age": 30,
+          "position": "MID",
+          "rating": 79,
+          "price": 15000000
+        },
+        {
+          "id": 75,
+          "name": "Vitaly Janelt",
+          "age": 26,
+          "position": "MID",
+          "rating": 78,
+          "price": 20000000
+        },
+        {
+          "id": 76,
+          "name": "Mathias Jensen",
+          "age": 28,
+          "position": "MID",
+          "rating": 78,
+          "price": 18000000
+        },
+        {
+          "id": 77,
+          "name": "Fabio Carvalho",
+          "age": 21,
+          "position": "MID",
+          "rating": 77,
+          "price": 25000000
+        },
+        {
+          "id": 78,
+          "name": "Mikkel Damsgaard",
+          "age": 24,
+          "position": "MID",
+          "rating": 76,
+          "price": 15000000
+        },
+        {
+          "id": 79,
+          "name": "Yehor Yarmoliuk",
+          "age": 20,
+          "position": "MID",
+          "rating": 73,
+          "price": 10000000
+        },
+        {
+          "id": 80,
+          "name": "Bryan Mbeumo",
+          "age": 24,
+          "position": "FWD",
+          "rating": 82,
+          "price": 45000000
+        },
+        {
+          "id": 81,
+          "name": "Yoane Wissa",
+          "age": 27,
+          "position": "FWD",
+          "rating": 80,
+          "price": 25000000
+        },
+        {
+          "id": 82,
+          "name": "Igor Thiago",
+          "age": 23,
+          "position": "FWD",
+          "rating": 76,
+          "price": 30000000
+        },
+        {
+          "id": 83,
+          "name": "Kevin Schade",
+          "age": 22,
+          "position": "FWD",
+          "rating": 75,
+          "price": 18000000
+        },
+        {
+          "id": 84,
+          "name": "Keane Lewis-Potter",
+          "age": 23,
+          "position": "FWD",
+          "rating": 75,
+          "price": 15000000
+        }
+      ]
+    },
+    {
+      "name": "Brighton",
+      "budget": 65000000,
+      "stadium_name": "Amex Stadium",
+      "capacity": 3187,
+      "players": [
+        {
+          "id": 85,
+          "name": "Bart Verbruggen",
+          "age": 21,
+          "position": "GK",
+          "rating": 80,
+          "price": 30000000
+        },
+        {
+          "id": 86,
+          "name": "Jason Steele",
+          "age": 33,
+          "position": "GK",
+          "rating": 76,
+          "price": 5000000
+        },
+        {
+          "id": 87,
+          "name": "Lewis Dunk",
+          "age": 32,
+          "position": "DEF",
+          "rating": 80,
+          "price": 15000000
+        },
+        {
+          "id": 88,
+          "name": "Pervis Estupiñán",
+          "age": 26,
+          "position": "DEF",
+          "rating": 81,
+          "price": 40000000
+        },
+        {
+          "id": 89,
+          "name": "Jan Paul van Hecke",
+          "age": 24,
+          "position": "DEF",
+          "rating": 79,
+          "price": 25000000
+        },
+        {
+          "id": 90,
+          "name": "Ferdi Kadıoğlu",
+          "age": 24,
+          "position": "DEF",
+          "rating": 80,
+          "price": 35000000
+        },
+        {
+          "id": 91,
+          "name": "Joël Veltman",
+          "age": 32,
+          "position": "DEF",
+          "rating": 77,
+          "price": 10000000
+        },
+        {
+          "id": 92,
+          "name": "Tariq Lamptey",
+          "age": 23,
+          "position": "DEF",
+          "rating": 76,
+          "price": 15000000
+        },
+        {
+          "id": 93,
+          "name": "Igor Julio",
+          "age": 26,
+          "position": "DEF",
+          "rating": 77,
+          "price": 18000000
+        },
+        {
+          "id": 94,
+          "name": "Mats Wieffer",
+          "age": 24,
+          "position": "MID",
+          "rating": 79,
+          "price": 30000000
+        },
+        {
+          "id": 95,
+          "name": "Matt O'Riley",
+          "age": 23,
+          "position": "MID",
+          "rating": 79,
+          "price": 30000000
+        },
+        {
+          "id": 96,
+          "name": "Carlos Baleba",
+          "age": 20,
+          "position": "MID",
+          "rating": 77,
+          "price": 25000000
+        },
+        {
+          "id": 97,
+          "name": "James Milner",
+          "age": 38,
+          "position": "MID",
+          "rating": 75,
+          "price": 2000000
+        },
+        {
+          "id": 98,
+          "name": "Jack Hinshelwood",
+          "age": 19,
+          "position": "MID",
+          "rating": 74,
+          "price": 15000000
+        },
+        {
+          "id": 99,
+          "name": "Kaoru Mitoma",
+          "age": 27,
+          "position": "FWD",
+          "rating": 83,
+          "price": 50000000
+        },
+        {
+          "id": 100,
+          "name": "João Pedro",
+          "age": 22,
+          "position": "FWD",
+          "rating": 82,
+          "price": 50000000
+        },
+        {
+          "id": 101,
+          "name": "Simon Adingra",
+          "age": 22,
+          "position": "FWD",
+          "rating": 80,
+          "price": 40000000
+        },
+        {
+          "id": 102,
+          "name": "Evan Ferguson",
+          "age": 19,
+          "position": "FWD",
+          "rating": 79,
+          "price": 45000000
+        },
+        {
+          "id": 103,
+          "name": "Danny Welbeck",
+          "age": 33,
+          "position": "FWD",
+          "rating": 78,
+          "price": 8000000
+        },
+        {
+          "id": 104,
+          "name": "Yankuba Minteh",
+          "age": 19,
+          "position": "FWD",
+          "rating": 77,
+          "price": 35000000
+        },
+        {
+          "id": 105,
+          "name": "Georginio Rutter",
+          "age": 22,
+          "position": "FWD",
+          "rating": 78,
+          "price": 40000000
+        },
+        {
+          "id": 106,
+          "name": "Solly March",
+          "age": 29,
+          "position": "FWD",
+          "rating": 78,
+          "price": 20000000
+        }
+      ]
+    },
+    {
+      "name": "Chelsea",
+      "budget": 150000000,
+      "stadium_name": "Stamford Bridge",
+      "capacity": 40343,
+      "players": [
+        {
+          "id": 107,
+          "name": "Robert Sánchez",
+          "age": 26,
+          "position": "GK",
+          "rating": 80,
+          "price": 30000000
+        },
+        {
+          "id": 108,
+          "name": "Filip Jörgensen",
+          "age": 22,
+          "position": "GK",
+          "rating": 76,
+          "price": 20000000
+        },
+        {
+          "id": 109,
+          "name": "Reece James",
+          "age": 24,
+          "position": "DEF",
+          "rating": 84,
+          "price": 55000000
+        },
+        {
+          "id": 110,
+          "name": "Marc Cucurella",
+          "age": 25,
+          "position": "DEF",
+          "rating": 82,
+          "price": 45000000
+        },
+        {
+          "id": 111,
+          "name": "Levi Colwill",
+          "age": 21,
+          "position": "DEF",
+          "rating": 81,
+          "price": 50000000
+        },
+        {
+          "id": 112,
+          "name": "Wesley Fofana",
+          "age": 23,
+          "position": "DEF",
+          "rating": 81,
+          "price": 45000000
+        },
+        {
+          "id": 113,
+          "name": "Malo Gusto",
+          "age": 21,
+          "position": "DEF",
+          "rating": 80,
+          "price": 40000000
+        },
+        {
+          "id": 114,
+          "name": "Axel Disasi",
+          "age": 26,
+          "position": "DEF",
+          "rating": 79,
+          "price": 35000000
+        },
+        {
+          "id": 115,
+          "name": "Benoît Badiashile",
+          "age": 23,
+          "position": "DEF",
+          "rating": 78,
+          "price": 30000000
+        },
+        {
+          "id": 116,
+          "name": "Tosin Adarabioyo",
+          "age": 26,
+          "position": "DEF",
+          "rating": 78,
+          "price": 20000000
+        },
+        {
+          "id": 117,
+          "name": "Cole Palmer",
+          "age": 22,
+          "position": "MID",
+          "rating": 87,
+          "price": 100000000
+        },
+        {
+          "id": 118,
+          "name": "Enzo Fernández",
+          "age": 23,
+          "position": "MID",
+          "rating": 84,
+          "price": 80000000
+        },
+        {
+          "id": 119,
+          "name": "Moisés Caicedo",
+          "age": 22,
+          "position": "MID",
+          "rating": 84,
+          "price": 80000000
+        },
+        {
+          "id": 120,
+          "name": "Roméo Lavia",
+          "age": 20,
+          "position": "MID",
+          "rating": 78,
+          "price": 45000000
+        },
+        {
+          "id": 121,
+          "name": "Kiernan Dewsbury-Hall",
+          "age": 25,
+          "position": "MID",
+          "rating": 78,
+          "price": 30000000
+        },
+        {
+          "id": 122,
+          "name": "Renato Veiga",
+          "age": 20,
+          "position": "MID",
+          "rating": 75,
+          "price": 15000000
+        },
+        {
+          "id": 123,
+          "name": "Christopher Nkunku",
+          "age": 26,
+          "position": "FWD",
+          "rating": 84,
+          "price": 60000000
+        },
+        {
+          "id": 124,
+          "name": "Nicolas Jackson",
+          "age": 23,
+          "position": "FWD",
+          "rating": 82,
+          "price": 50000000
+        },
+        {
+          "id": 125,
+          "name": "Pedro Neto",
+          "age": 24,
+          "position": "FWD",
+          "rating": 82,
+          "price": 60000000
+        },
+        {
+          "id": 126,
+          "name": "João Félix",
+          "age": 24,
+          "position": "FWD",
+          "rating": 81,
+          "price": 50000000
+        },
+        {
+          "id": 127,
+          "name": "Jadon Sancho",
+          "age": 24,
+          "position": "FWD",
+          "rating": 81,
+          "price": 45000000
+        },
+        {
+          "id": 128,
+          "name": "Noni Madueke",
+          "age": 22,
+          "position": "FWD",
+          "rating": 80,
+          "price": 40000000
+        },
+        {
+          "id": 129,
+          "name": "Mykhailo Mudryk",
+          "age": 23,
+          "position": "FWD",
+          "rating": 78,
+          "price": 40000000
+        }
+      ]
+    },
+    {
+      "name": "Crystal Palace",
+      "budget": 55000000,
+      "stadium_name": "Selhurst Park",
+      "capacity": 25486,
+      "players": [
+        {
+          "id": 130,
+          "name": "Dean Henderson",
+          "age": 27,
+          "position": "GK",
+          "rating": 79,
+          "price": 18000000
+        },
+        {
+          "id": 131,
+          "name": "Matt Turner",
+          "age": 30,
+          "position": "GK",
+          "rating": 75,
+          "price": 5000000
+        },
+        {
+          "id": 132,
+          "name": "Marc Guéhi",
+          "age": 24,
+          "position": "DEF",
+          "rating": 83,
+          "price": 65000000
+        },
+        {
+          "id": 133,
+          "name": "Daniel Muñoz",
+          "age": 28,
+          "position": "DEF",
+          "rating": 80,
+          "price": 22000000
+        },
+        {
+          "id": 134,
+          "name": "Tyrick Mitchell",
+          "age": 24,
+          "position": "DEF",
+          "rating": 79,
+          "price": 25000000
+        },
+        {
+          "id": 135,
+          "name": "Maxence Lacroix",
+          "age": 24,
+          "position": "DEF",
+          "rating": 79,
+          "price": 25000000
+        },
+        {
+          "id": 136,
+          "name": "Trevoh Chalobah",
+          "age": 25,
+          "position": "DEF",
+          "rating": 78,
+          "price": 20000000
+        },
+        {
+          "id": 137,
+          "name": "Chris Richards",
+          "age": 24,
+          "position": "DEF",
+          "rating": 77,
+          "price": 15000000
+        },
+        {
+          "id": 138,
+          "name": "Chadi Riad",
+          "age": 21,
+          "position": "DEF",
+          "rating": 75,
+          "price": 15000000
+        },
+        {
+          "id": 139,
+          "name": "Nathaniel Clyne",
+          "age": 33,
+          "position": "DEF",
+          "rating": 74,
+          "price": 2000000
+        },
+        {
+          "id": 140,
+          "name": "Eberechi Eze",
+          "age": 26,
+          "position": "MID",
+          "rating": 84,
+          "price": 65000000
+        },
+        {
+          "id": 141,
+          "name": "Adam Wharton",
+          "age": 20,
+          "position": "MID",
+          "rating": 81,
+          "price": 45000000
+        },
+        {
+          "id": 142,
+          "name": "Cheick Doucouré",
+          "age": 24,
+          "position": "MID",
+          "rating": 80,
+          "price": 35000000
+        },
+        {
+          "id": 143,
+          "name": "Jefferson Lerma",
+          "age": 29,
+          "position": "MID",
+          "rating": 79,
+          "price": 15000000
+        },
+        {
+          "id": 144,
+          "name": "Daichi Kamada",
+          "age": 27,
+          "position": "MID",
+          "rating": 79,
+          "price": 20000000
+        },
+        {
+          "id": 145,
+          "name": "Will Hughes",
+          "age": 29,
+          "position": "MID",
+          "rating": 76,
+          "price": 8000000
+        },
+        {
+          "id": 146,
+          "name": "Jeffrey Schlupp",
+          "age": 31,
+          "position": "MID",
+          "rating": 76,
+          "price": 5000000
+        },
+        {
+          "id": 147,
+          "name": "Jean-Philippe Mateta",
+          "age": 27,
+          "position": "FWD",
+          "rating": 81,
+          "price": 35000000
+        },
+        {
+          "id": 148,
+          "name": "Eddie Nketiah",
+          "age": 25,
+          "position": "FWD",
+          "rating": 79,
+          "price": 30000000
+        },
+        {
+          "id": 149,
+          "name": "Ismaïla Sarr",
+          "age": 26,
+          "position": "FWD",
+          "rating": 78,
+          "price": 20000000
+        },
+        {
+          "id": 150,
+          "name": "Matheus França",
+          "age": 20,
+          "position": "FWD",
+          "rating": 75,
+          "price": 15000000
+        }
+      ]
+    },
+    {
+      "name": "Everton",
+      "budget": 45000000,
+      "stadium_name": "Goodison Park",
+      "capacity": 39572,
+      "players": [
+        {
+          "id": 151,
+          "name": "Jordan Pickford",
+          "age": 30,
+          "position": "GK",
+          "rating": 83,
+          "price": 40000000
+        },
+        {
+          "id": 152,
+          "name": "João Virgínia",
+          "age": 24,
+          "position": "GK",
+          "rating": 73,
+          "price": 3000000
+        },
+        {
+          "id": 153,
+          "name": "Jarrad Branthwaite",
+          "age": 21,
+          "position": "DEF",
+          "rating": 82,
+          "price": 55000000
+        },
+        {
+          "id": 154,
+          "name": "James Tarkowski",
+          "age": 31,
+          "position": "DEF",
+          "rating": 80,
+          "price": 20000000
+        },
+        {
+          "id": 155,
+          "name": "Vitaliy Mykolenko",
+          "age": 25,
+          "position": "DEF",
+          "rating": 79,
+          "price": 25000000
+        },
+        {
+          "id": 156,
+          "name": "Nathan Patterson",
+          "age": 22,
+          "position": "DEF",
+          "rating": 76,
+          "price": 15000000
+        },
+        {
+          "id": 157,
+          "name": "Jake O'Brien",
+          "age": 23,
+          "position": "DEF",
+          "rating": 75,
+          "price": 18000000
+        },
+        {
+          "id": 158,
+          "name": "Michael Keane",
+          "age": 31,
+          "position": "DEF",
+          "rating": 75,
+          "price": 8000000
+        },
+        {
+          "id": 159,
+          "name": "Séamus Coleman",
+          "age": 35,
+          "position": "DEF",
+          "rating": 74,
+          "price": 2000000
+        },
+        {
+          "id": 160,
+          "name": "Ashley Young",
+          "age": 38,
+          "position": "DEF",
+          "rating": 73,
+          "price": 1000000
+        },
+        {
+          "id": 161,
+          "name": "Dwight McNeil",
+          "age": 24,
+          "position": "MID",
+          "rating": 79,
+          "price": 28000000
+        },
+        {
+          "id": 162,
+          "name": "Abdoulaye Doucouré",
+          "age": 31,
+          "position": "MID",
+          "rating": 78,
+          "price": 15000000
+        },
+        {
+          "id": 163,
+          "name": "Idrissa Gueye",
+          "age": 34,
+          "position": "MID",
+          "rating": 78,
+          "price": 8000000
+        },
+        {
+          "id": 164,
+          "name": "Jack Harrison",
+          "age": 27,
+          "position": "MID",
+          "rating": 78,
+          "price": 20000000
+        },
+        {
+          "id": 165,
+          "name": "James Garner",
+          "age": 23,
+          "position": "MID",
+          "rating": 77,
+          "price": 20000000
+        },
+        {
+          "id": 166,
+          "name": "Orel Mangala",
+          "age": 26,
+          "position": "MID",
+          "rating": 77,
+          "price": 20000000
+        },
+        {
+          "id": 167,
+          "name": "Jesper Lindstrøm",
+          "age": 24,
+          "position": "MID",
+          "rating": 77,
+          "price": 20000000
+        },
+        {
+          "id": 168,
+          "name": "Tim Iroegbunam",
+          "age": 20,
+          "position": "MID",
+          "rating": 74,
+          "price": 10000000
+        },
+        {
+          "id": 169,
+          "name": "Dominic Calvert-Lewin",
+          "age": 27,
+          "position": "FWD",
+          "rating": 79,
+          "price": 25000000
+        },
+        {
+          "id": 170,
+          "name": "Iliman Ndiaye",
+          "age": 24,
+          "position": "FWD",
+          "rating": 78,
+          "price": 22000000
+        },
+        {
+          "id": 171,
+          "name": "Beto",
+          "age": 26,
+          "position": "FWD",
+          "rating": 77,
+          "price": 20000000
+        },
+        {
+          "id": 172,
+          "name": "Youssef Chermiti",
+          "age": 20,
+          "position": "FWD",
+          "rating": 72,
+          "price": 10000000
+        }
+      ]
+    },
+    {
+      "name": "Fulham",
+      "budget": 50000000,
+      "stadium_name": "Craven Cottage",
+      "capacity": 25700,
+      "players": [
+        {
+          "id": 173,
+          "name": "Bernd Leno",
+          "age": 32,
+          "position": "GK",
+          "rating": 81,
+          "price": 20000000
+        },
+        {
+          "id": 174,
+          "name": "Steven Benda",
+          "age": 25,
+          "position": "GK",
+          "rating": 72,
+          "price": 3000000
+        },
+        {
+          "id": 175,
+          "name": "Joachim Andersen",
+          "age": 28,
+          "position": "DEF",
+          "rating": 81,
+          "price": 35000000
+        },
+        {
+          "id": 176,
+          "name": "Antonee Robinson",
+          "age": 26,
+          "position": "DEF",
+          "rating": 80,
+          "price": 30000000
+        },
+        {
+          "id": 177,
+          "name": "Calvin Bassey",
+          "age": 24,
+          "position": "DEF",
+          "rating": 78,
+          "price": 20000000
+        },
+        {
+          "id": 178,
+          "name": "Timothy Castagne",
+          "age": 28,
+          "position": "DEF",
+          "rating": 78,
+          "price": 18000000
+        },
+        {
+          "id": 179,
+          "name": "Issa Diop",
+          "age": 27,
+          "position": "DEF",
+          "rating": 77,
+          "price": 15000000
+        },
+        {
+          "id": 180,
+          "name": "Kenny Tete",
+          "age": 28,
+          "position": "DEF",
+          "rating": 77,
+          "price": 15000000
+        },
+        {
+          "id": 181,
+          "name": "Jorge Cuenca",
+          "age": 24,
+          "position": "DEF",
+          "rating": 76,
+          "price": 12000000
+        },
+        {
+          "id": 182,
+          "name": "Emile Smith Rowe",
+          "age": 23,
+          "position": "MID",
+          "rating": 80,
+          "price": 35000000
+        },
+        {
+          "id": 183,
+          "name": "Andreas Pereira",
+          "age": 28,
+          "position": "MID",
+          "rating": 79,
+          "price": 25000000
+        },
+        {
+          "id": 184,
+          "name": "Sander Berge",
+          "age": 26,
+          "position": "MID",
+          "rating": 78,
+          "price": 20000000
+        },
+        {
+          "id": 185,
+          "name": "Alex Iwobi",
+          "age": 28,
+          "position": "MID",
+          "rating": 78,
+          "price": 22000000
+        },
+        {
+          "id": 186,
+          "name": "Harrison Reed",
+          "age": 29,
+          "position": "MID",
+          "rating": 77,
+          "price": 15000000
+        },
+        {
+          "id": 187,
+          "name": "Saša Lukić",
+          "age": 27,
+          "position": "MID",
+          "rating": 77,
+          "price": 15000000
+        },
+        {
+          "id": 188,
+          "name": "Rodrigo Muniz",
+          "age": 23,
+          "position": "FWD",
+          "rating": 79,
+          "price": 25000000
+        },
+        {
+          "id": 189,
+          "name": "Harry Wilson",
+          "age": 27,
+          "position": "FWD",
+          "rating": 78,
+          "price": 20000000
+        },
+        {
+          "id": 190,
+          "name": "Adama Traoré",
+          "age": 28,
+          "position": "FWD",
+          "rating": 77,
+          "price": 15000000
+        },
+        {
+          "id": 191,
+          "name": "Raúl Jiménez",
+          "age": 33,
+          "position": "FWD",
+          "rating": 77,
+          "price": 10000000
+        },
+        {
+          "id": 192,
+          "name": "Reiss Nelson",
+          "age": 24,
+          "position": "FWD",
+          "rating": 76,
+          "price": 15000000
+        }
+      ]
+    },
+    {
+      "name": "Ipswich Town",
+      "budget": 35000000,
+      "stadium_name": "Portman Road",
+      "capacity": 30311,
+      "players": [
+        {
+          "id": 193,
+          "name": "Arijanet Muric",
+          "age": 25,
+          "position": "GK",
+          "rating": 76,
+          "price": 12000000
+        },
+        {
+          "id": 194,
+          "name": "Christian Walton",
+          "age": 28,
+          "position": "GK",
+          "rating": 73,
+          "price": 4000000
+        },
+        {
+          "id": 195,
+          "name": "Leif Davis",
+          "age": 24,
+          "position": "DEF",
+          "rating": 77,
+          "price": 18000000
+        },
+        {
+          "id": 196,
+          "name": "Jacob Greaves",
+          "age": 23,
+          "position": "DEF",
+          "rating": 76,
+          "price": 15000000
+        },
+        {
+          "id": 197,
+          "name": "Dara O'Shea",
+          "age": 25,
+          "position": "DEF",
+          "rating": 75,
+          "price": 12000000
+        },
+        {
+          "id": 198,
+          "name": "Axel Tuanzebe",
+          "age": 26,
+          "position": "DEF",
+          "rating": 74,
+          "price": 8000000
+        },
+        {
+          "id": 199,
+          "name": "Luke Woolfenden",
+          "age": 25,
+          "position": "DEF",
+          "rating": 74,
+          "price": 8000000
+        },
+        {
+          "id": 200,
+          "name": "Ben Johnson",
+          "age": 24,
+          "position": "DEF",
+          "rating": 75,
+          "price": 10000000
+        },
+        {
+          "id": 201,
+          "name": "Sam Morsy",
+          "age": 32,
+          "position": "MID",
+          "rating": 75,
+          "price": 5000000
+        },
+        {
+          "id": 202,
+          "name": "Kalvin Phillips",
+          "age": 28,
+          "position": "MID",
+          "rating": 77,
+          "price": 18000000
+        },
+        {
+          "id": 203,
+          "name": "Massimo Luongo",
+          "age": 31,
+          "position": "MID",
+          "rating": 74,
+          "price": 4000000
+        },
+        {
+          "id": 204,
+          "name": "Jens Cajuste",
+          "age": 24,
+          "position": "MID",
+          "rating": 76,
+          "price": 15000000
+        },
+        {
+          "id": 205,
+          "name": "Jack Clarke",
+          "age": 23,
+          "position": "MID",
+          "rating": 77,
+          "price": 20000000
+        },
+        {
+          "id": 206,
+          "name": "Omari Hutchinson",
+          "age": 20,
+          "position": "FWD",
+          "rating": 76,
+          "price": 22000000
+        },
+        {
+          "id": 207,
+          "name": "Sammie Szmodics",
+          "age": 28,
+          "position": "FWD",
+          "rating": 76,
+          "price": 15000000
+        },
+        {
+          "id": 208,
+          "name": "Liam Delap",
+          "age": 21,
+          "position": "FWD",
+          "rating": 75,
+          "price": 18000000
+        },
+        {
+          "id": 209,
+          "name": "Conor Chaplin",
+          "age": 27,
+          "position": "FWD",
+          "rating": 74,
+          "price": 8000000
+        },
+        {
+          "id": 210,
+          "name": "Chiedozie Ogbene",
+          "age": 27,
+          "position": "FWD",
+          "rating": 75,
+          "price": 10000000
+        },
+        {
+          "id": 211,
+          "name": "George Hirst",
+          "age": 25,
+          "position": "FWD",
+          "rating": 73,
+          "price": 6000000
+        }
+      ]
+    },
+    {
+      "name": "Leicester City",
+      "budget": 40000000,
+      "stadium_name": "King Power Stadium",
+      "capacity": 32261,
+      "players": [
+        {
+          "id": 212,
+          "name": "Mads Hermansen",
+          "age": 24,
+          "position": "GK",
+          "rating": 78,
+          "price": 20000000
+        },
+        {
+          "id": 213,
+          "name": "Danny Ward",
+          "age": 31,
+          "position": "GK",
+          "rating": 74,
+          "price": 3000000
+        },
+        {
+          "id": 214,
+          "name": "Wout Faes",
+          "age": 26,
+          "position": "DEF",
+          "rating": 77,
+          "price": 18000000
+        },
+        {
+          "id": 215,
+          "name": "Jannik Vestergaard",
+          "age": 32,
+          "position": "DEF",
+          "rating": 75,
+          "price": 5000000
+        },
+        {
+          "id": 216,
+          "name": "James Justin",
+          "age": 26,
+          "position": "DEF",
+          "rating": 76,
+          "price": 15000000
+        },
+        {
+          "id": 217,
+          "name": "Ricardo Pereira",
+          "age": 30,
+          "position": "DEF",
+          "rating": 77,
+          "price": 12000000
+        },
+        {
+          "id": 218,
+          "name": "Victor Kristiansen",
+          "age": 21,
+          "position": "DEF",
+          "rating": 76,
+          "price": 15000000
+        },
+        {
+          "id": 219,
+          "name": "Conor Coady",
+          "age": 31,
+          "position": "DEF",
+          "rating": 74,
+          "price": 4000000
+        },
+        {
+          "id": 220,
+          "name": "Caleb Okoli",
+          "age": 23,
+          "position": "DEF",
+          "rating": 75,
+          "price": 12000000
+        },
+        {
+          "id": 221,
+          "name": "Harry Winks",
+          "age": 28,
+          "position": "MID",
+          "rating": 77,
+          "price": 18000000
+        },
+        {
+          "id": 222,
+          "name": "Wilfred Ndidi",
+          "age": 27,
+          "position": "MID",
+          "rating": 78,
+          "price": 20000000
+        },
+        {
+          "id": 223,
+          "name": "Oliver Skipp",
+          "age": 23,
+          "position": "MID",
+          "rating": 76,
+          "price": 15000000
+        },
+        {
+          "id": 224,
+          "name": "Boubakary Soumaré",
+          "age": 25,
+          "position": "MID",
+          "rating": 75,
+          "price": 12000000
+        },
+        {
+          "id": 225,
+          "name": "Hamza Choudhury",
+          "age": 26,
+          "position": "MID",
+          "rating": 74,
+          "price": 8000000
+        },
+        {
+          "id": 226,
+          "name": "Bilal El Khannouss",
+          "age": 20,
+          "position": "MID",
+          "rating": 76,
+          "price": 20000000
+        },
+        {
+          "id": 227,
+          "name": "Facundo Buonanotte",
+          "age": 19,
+          "position": "MID",
+          "rating": 76,
+          "price": 18000000
+        },
+        {
+          "id": 228,
+          "name": "Jamie Vardy",
+          "age": 37,
+          "position": "FWD",
+          "rating": 76,
+          "price": 2000000
+        },
+        {
+          "id": 229,
+          "name": "Stephy Mavididi",
+          "age": 26,
+          "position": "FWD",
+          "rating": 76,
+          "price": 15000000
+        },
+        {
+          "id": 230,
+          "name": "Abdul Fatawu",
+          "age": 20,
+          "position": "FWD",
+          "rating": 77,
+          "price": 22000000
+        },
+        {
+          "id": 231,
+          "name": "Jordan Ayew",
+          "age": 32,
+          "position": "FWD",
+          "rating": 75,
+          "price": 8000000
+        },
+        {
+          "id": 232,
+          "name": "Patson Daka",
+          "age": 25,
+          "position": "FWD",
+          "rating": 76,
+          "price": 15000000
+        },
+        {
+          "id": 233,
+          "name": "Odsonne Édouard",
+          "age": 26,
+          "position": "FWD",
+          "rating": 76,
+          "price": 15000000
+        }
+      ]
+    },
+    {
+      "name": "Liverpool",
+      "budget": 140000000,
+      "stadium_name": "Anfield",
+      "capacity": 61276,
+      "players": [
+        {
+          "id": 234,
+          "name": "Alisson Becker",
+          "age": 31,
+          "position": "GK",
+          "rating": 89,
+          "price": 55000000
+        },
+        {
+          "id": 235,
+          "name": "Caoimhín Kelleher",
+          "age": 25,
+          "position": "GK",
+          "rating": 79,
+          "price": 20000000
+        },
+        {
+          "id": 236,
+          "name": "Virgil van Dijk",
+          "age": 32,
+          "position": "DEF",
+          "rating": 89,
+          "price": 60000000
+        },
+        {
+          "id": 237,
+          "name": "Trent Alexander-Arnold",
+          "age": 25,
+          "position": "DEF",
+          "rating": 86,
+          "price": 75000000
+        },
+        {
+          "id": 238,
+          "name": "Andrew Robertson",
+          "age": 30,
+          "position": "DEF",
+          "rating": 85,
+          "price": 45000000
+        },
+        {
+          "id": 239,
+          "name": "Ibrahima Konaté",
+          "age": 25,
+          "position": "DEF",
+          "rating": 84,
+          "price": 50000000
+        },
+        {
+          "id": 240,
+          "name": "Jarell Quansah",
+          "age": 21,
+          "position": "DEF",
+          "rating": 78,
+          "price": 25000000
+        },
+        {
+          "id": 241,
+          "name": "Joe Gomez",
+          "age": 27,
+          "position": "DEF",
+          "rating": 80,
+          "price": 25000000
+        },
+        {
+          "id": 242,
+          "name": "Conor Bradley",
+          "age": 20,
+          "position": "DEF",
+          "rating": 78,
+          "price": 25000000
+        },
+        {
+          "id": 243,
+          "name": "Kostas Tsimikas",
+          "age": 28,
+          "position": "DEF",
+          "rating": 79,
+          "price": 20000000
+        },
+        {
+          "id": 244,
+          "name": "Alexis Mac Allister",
+          "age": 25,
+          "position": "MID",
+          "rating": 86,
+          "price": 70000000
+        },
+        {
+          "id": 245,
+          "name": "Dominik Szoboszlai",
+          "age": 23,
+          "position": "MID",
+          "rating": 84,
+          "price": 65000000
+        },
+        {
+          "id": 246,
+          "name": "Ryan Gravenberch",
+          "age": 22,
+          "position": "MID",
+          "rating": 82,
+          "price": 45000000
+        },
+        {
+          "id": 247,
+          "name": "Harvey Elliott",
+          "age": 21,
+          "position": "MID",
+          "rating": 80,
+          "price": 40000000
+        },
+        {
+          "id": 248,
+          "name": "Curtis Jones",
+          "age": 23,
+          "position": "MID",
+          "rating": 80,
+          "price": 35000000
+        },
+        {
+          "id": 249,
+          "name": "Wataru Endo",
+          "age": 31,
+          "position": "MID",
+          "rating": 79,
+          "price": 15000000
+        },
+        {
+          "id": 250,
+          "name": "Mohamed Salah",
+          "age": 32,
+          "position": "FWD",
+          "rating": 89,
+          "price": 75000000
+        },
+        {
+          "id": 251,
+          "name": "Luis Díaz",
+          "age": 27,
+          "position": "FWD",
+          "rating": 85,
+          "price": 65000000
+        },
+        {
+          "id": 252,
+          "name": "Darwin Núñez",
+          "age": 25,
+          "position": "FWD",
+          "rating": 83,
+          "price": 60000000
+        },
+        {
+          "id": 253,
+          "name": "Diogo Jota",
+          "age": 27,
+          "position": "FWD",
+          "rating": 84,
+          "price": 55000000
+        },
+        {
+          "id": 254,
+          "name": "Cody Gakpo",
+          "age": 25,
+          "position": "FWD",
+          "rating": 83,
+          "price": 50000000
+        },
+        {
+          "id": 255,
+          "name": "Federico Chiesa",
+          "age": 26,
+          "position": "FWD",
+          "rating": 83,
+          "price": 40000000
+        }
+      ]
+    },
+    {
+      "name": "Manchester City",
+      "budget": 200000000,
+      "stadium_name": "Etihad Stadium",
+      "capacity": 53400,
+      "players": [
+        {
+          "id": 256,
+          "name": "Ederson",
+          "age": 30,
+          "position": "GK",
+          "rating": 88,
+          "price": 50000000
+        },
+        {
+          "id": 257,
+          "name": "Stefan Ortega",
+          "age": 31,
+          "position": "GK",
+          "rating": 80,
+          "price": 15000000
+        },
+        {
+          "id": 258,
+          "name": "Rúben Dias",
+          "age": 27,
+          "position": "DEF",
+          "rating": 89,
+          "price": 80000000
+        },
+        {
+          "id": 259,
+          "name": "John Stones",
+          "age": 30,
+          "position": "DEF",
+          "rating": 86,
+          "price": 60000000
+        },
+        {
+          "id": 260,
+          "name": "Manuel Akanji",
+          "age": 28,
+          "position": "DEF",
+          "rating": 85,
+          "price": 50000000
+        },
+        {
+          "id": 261,
+          "name": "Nathan Aké",
+          "age": 29,
+          "position": "DEF",
+          "rating": 84,
+          "price": 45000000
+        },
+        {
+          "id": 262,
+          "name": "Joško Gvardiol",
+          "age": 22,
+          "position": "DEF",
+          "rating": 86,
+          "price": 75000000
+        },
+        {
+          "id": 263,
+          "name": "Kyle Walker",
+          "age": 34,
+          "position": "DEF",
+          "rating": 84,
+          "price": 25000000
+        },
+        {
+          "id": 264,
+          "name": "Rico Lewis",
+          "age": 19,
+          "position": "DEF",
+          "rating": 80,
+          "price": 35000000
+        },
+        {
+          "id": 265,
+          "name": "Rodri",
+          "age": 28,
+          "position": "MID",
+          "rating": 91,
+          "price": 110000000
+        },
+        {
+          "id": 266,
+          "name": "Mateo Kovačić",
+          "age": 30,
+          "position": "MID",
+          "rating": 84,
+          "price": 35000000
+        },
+        {
+          "id": 267,
+          "name": "Kevin De Bruyne",
+          "age": 33,
+          "position": "MID",
+          "rating": 90,
+          "price": 70000000
+        },
+        {
+          "id": 268,
+          "name": "Bernardo Silva",
+          "age": 29,
+          "position": "MID",
+          "rating": 88,
+          "price": 75000000
+        },
+        {
+          "id": 269,
+          "name": "Matheus Nunes",
+          "age": 25,
+          "position": "MID",
+          "rating": 81,
+          "price": 40000000
+        },
+        {
+          "id": 270,
+          "name": "Phil Foden",
+          "age": 24,
+          "position": "MID",
+          "rating": 89,
+          "price": 100000000
+        },
+        {
+          "id": 271,
+          "name": "Jack Grealish",
+          "age": 28,
+          "position": "FWD",
+          "rating": 85,
+          "price": 60000000
+        },
+        {
+          "id": 272,
+          "name": "Jérémy Doku",
+          "age": 22,
+          "position": "FWD",
+          "rating": 83,
+          "price": 55000000
+        },
+        {
+          "id": 273,
+          "name": "Savinho",
+          "age": 20,
+          "position": "FWD",
+          "rating": 81,
+          "price": 40000000
+        },
+        {
+          "id": 274,
+          "name": "Oscar Bobb",
+          "age": 20,
+          "position": "FWD",
+          "rating": 78,
+          "price": 25000000
+        },
+        {
+          "id": 275,
+          "name": "Erling Haaland",
+          "age": 23,
+          "position": "FWD",
+          "rating": 92,
+          "price": 160000000
+        }
+      ]
+    },
+    {
+      "name": "Manchester United",
+      "budget": 140000000,
+      "stadium_name": "Old Trafford",
+      "capacity": 74310,
+      "players": [
+        {
+          "id": 276,
+          "name": "André Onana",
+          "age": 28,
+          "position": "GK",
+          "rating": 83,
+          "price": 40000000
+        },
+        {
+          "id": 277,
+          "name": "Altay Bayındır",
+          "age": 26,
+          "position": "GK",
+          "rating": 76,
+          "price": 10000000
+        },
+        {
+          "id": 278,
+          "name": "Lisandro Martínez",
+          "age": 26,
+          "position": "DEF",
+          "rating": 84,
+          "price": 50000000
+        },
+        {
+          "id": 279,
+          "name": "Matthijs de Ligt",
+          "age": 24,
+          "position": "DEF",
+          "rating": 84,
+          "price": 50000000
+        },
+        {
+          "id": 280,
+          "name": "Leny Yoro",
+          "age": 18,
+          "position": "DEF",
+          "rating": 78,
+          "price": 45000000
+        },
+        {
+          "id": 281,
+          "name": "Harry Maguire",
+          "age": 31,
+          "position": "DEF",
+          "rating": 80,
+          "price": 20000000
+        },
+        {
+          "id": 282,
+          "name": "Diogo Dalot",
+          "age": 25,
+          "position": "DEF",
+          "rating": 82,
+          "price": 35000000
+        },
+        {
+          "id": 283,
+          "name": "Noussair Mazraoui",
+          "age": 26,
+          "position": "DEF",
+          "rating": 81,
+          "price": 25000000
+        },
+        {
+          "id": 284,
+          "name": "Luke Shaw",
+          "age": 28,
+          "position": "DEF",
+          "rating": 81,
+          "price": 25000000
+        },
+        {
+          "id": 285,
+          "name": "Jonny Evans",
+          "age": 36,
+          "position": "DEF",
+          "rating": 75,
+          "price": 2000000
+        },
+        {
+          "id": 286,
+          "name": "Kobbie Mainoo",
+          "age": 19,
+          "position": "MID",
+          "rating": 81,
+          "price": 45000000
+        },
+        {
+          "id": 287,
+          "name": "Bruno Fernandes",
+          "age": 29,
+          "position": "MID",
+          "rating": 87,
+          "price": 75000000
+        },
+        {
+          "id": 288,
+          "name": "Casemiro",
+          "age": 32,
+          "position": "MID",
+          "rating": 82,
+          "price": 25000000
+        },
+        {
+          "id": 289,
+          "name": "Manuel Ugarte",
+          "age": 23,
+          "position": "MID",
+          "rating": 82,
+          "price": 50000000
+        },
+        {
+          "id": 290,
+          "name": "Mason Mount",
+          "age": 25,
+          "position": "MID",
+          "rating": 80,
+          "price": 40000000
+        },
+        {
+          "id": 291,
+          "name": "Christian Eriksen",
+          "age": 32,
+          "position": "MID",
+          "rating": 79,
+          "price": 10000000
+        },
+        {
+          "id": 292,
+          "name": "Marcus Rashford",
+          "age": 26,
+          "position": "FWD",
+          "rating": 83,
+          "price": 60000000
+        },
+        {
+          "id": 293,
+          "name": "Alejandro Garnacho",
+          "age": 20,
+          "position": "FWD",
+          "rating": 82,
+          "price": 55000000
+        },
+        {
+          "id": 294,
+          "name": "Amad Diallo",
+          "age": 22,
+          "position": "FWD",
+          "rating": 78,
+          "price": 25000000
+        },
+        {
+          "id": 295,
+          "name": "Antony",
+          "age": 24,
+          "position": "FWD",
+          "rating": 78,
+          "price": 30000000
+        },
+        {
+          "id": 296,
+          "name": "Rasmus Højlund",
+          "age": 21,
+          "position": "FWD",
+          "rating": 81,
+          "price": 55000000
+        },
+        {
+          "id": 297,
+          "name": "Joshua Zirkzee",
+          "age": 23,
+          "position": "FWD",
+          "rating": 80,
+          "price": 40000000
+        }
+      ]
+    },
+    {
+      "name": "Newcastle United",
+      "budget": 110000000,
+      "stadium_name": "St. James' Park",
+      "capacity": 52305,
+      "players": [
+        {
+          "id": 298,
+          "name": "Nick Pope",
+          "age": 32,
+          "position": "GK",
+          "rating": 83,
+          "price": 30000000
+        },
+        {
+          "id": 299,
+          "name": "Martin Dúbravka",
+          "age": 35,
+          "position": "GK",
+          "rating": 77,
+          "price": 5000000
+        },
+        {
+          "id": 300,
+          "name": "Sven Botman",
+          "age": 24,
+          "position": "DEF",
+          "rating": 84,
+          "price": 50000000
+        },
+        {
+          "id": 301,
+          "name": "Fabian Schär",
+          "age": 32,
+          "position": "DEF",
+          "rating": 81,
+          "price": 15000000
+        },
+        {
+          "id": 302,
+          "name": "Kieran Trippier",
+          "age": 33,
+          "position": "DEF",
+          "rating": 82,
+          "price": 18000000
+        },
+        {
+          "id": 303,
+          "name": "Tino Livramento",
+          "age": 21,
+          "position": "DEF",
+          "rating": 79,
+          "price": 35000000
+        },
+        {
+          "id": 304,
+          "name": "Dan Burn",
+          "age": 32,
+          "position": "DEF",
+          "rating": 78,
+          "price": 12000000
+        },
+        {
+          "id": 305,
+          "name": "Lewis Hall",
+          "age": 19,
+          "position": "DEF",
+          "rating": 77,
+          "price": 30000000
+        },
+        {
+          "id": 306,
+          "name": "Lloyd Kelly",
+          "age": 25,
+          "position": "DEF",
+          "rating": 77,
+          "price": 18000000
+        },
+        {
+          "id": 307,
+          "name": "Jamaal Lascelles",
+          "age": 30,
+          "position": "DEF",
+          "rating": 76,
+          "price": 10000000
+        },
+        {
+          "id": 308,
+          "name": "Bruno Guimarães",
+          "age": 26,
+          "position": "MID",
+          "rating": 86,
+          "price": 85000000
+        },
+        {
+          "id": 309,
+          "name": "Sandro Tonali",
+          "age": 24,
+          "position": "MID",
+          "rating": 84,
+          "price": 60000000
+        },
+        {
+          "id": 310,
+          "name": "Joelinton",
+          "age": 27,
+          "position": "MID",
+          "rating": 83,
+          "price": 50000000
+        },
+        {
+          "id": 311,
+          "name": "Joe Willock",
+          "age": 24,
+          "position": "MID",
+          "rating": 79,
+          "price": 28000000
+        },
+        {
+          "id": 312,
+          "name": "Sean Longstaff",
+          "age": 26,
+          "position": "MID",
+          "rating": 78,
+          "price": 22000000
+        },
+        {
+          "id": 313,
+          "name": "Lewis Miley",
+          "age": 18,
+          "position": "MID",
+          "rating": 75,
+          "price": 15000000
+        },
+        {
+          "id": 314,
+          "name": "Alexander Isak",
+          "age": 24,
+          "position": "FWD",
+          "rating": 85,
+          "price": 80000000
+        },
+        {
+          "id": 315,
+          "name": "Anthony Gordon",
+          "age": 23,
+          "position": "FWD",
+          "rating": 83,
+          "price": 65000000
+        },
+        {
+          "id": 316,
+          "name": "Harvey Barnes",
+          "age": 26,
+          "position": "FWD",
+          "rating": 81,
+          "price": 40000000
+        },
+        {
+          "id": 317,
+          "name": "Miguel Almirón",
+          "age": 30,
+          "position": "FWD",
+          "rating": 80,
+          "price": 25000000
+        },
+        {
+          "id": 318,
+          "name": "Callum Wilson",
+          "age": 32,
+          "position": "FWD",
+          "rating": 79,
+          "price": 15000000
+        },
+        {
+          "id": 319,
+          "name": "Jacob Murphy",
+          "age": 29,
+          "position": "FWD",
+          "rating": 77,
+          "price": 12000000
+        }
+      ]
+    },
+    {
+      "name": "Nottingham Forest",
+      "budget": 55000000,
+      "stadium_name": "City Ground",
+      "capacity": 30445,
+      "players": [
+        {
+          "id": 320,
+          "name": "Matz Sels",
+          "age": 32,
+          "position": "GK",
+          "rating": 78,
+          "price": 12000000
+        },
+        {
+          "id": 321,
+          "name": "Carlos Miguel",
+          "age": 27,
+          "position": "GK",
+          "rating": 75,
+          "price": 8000000
+        },
+        {
+          "id": 322,
+          "name": "Murillo",
+          "age": 21,
+          "position": "DEF",
+          "rating": 81,
+          "price": 45000000
+        },
+        {
+          "id": 323,
+          "name": "Nikola Milenković",
+          "age": 26,
+          "position": "DEF",
+          "rating": 80,
+          "price": 30000000
+        },
+        {
+          "id": 324,
+          "name": "Álex Moreno",
+          "age": 31,
+          "position": "DEF",
+          "rating": 78,
+          "price": 15000000
+        },
+        {
+          "id": 325,
+          "name": "Neco Williams",
+          "age": 23,
+          "position": "DEF",
+          "rating": 77,
+          "price": 18000000
+        },
+        {
+          "id": 326,
+          "name": "Ola Aina",
+          "age": 27,
+          "position": "DEF",
+          "rating": 77,
+          "price": 15000000
+        },
+        {
+          "id": 327,
+          "name": "Morato",
+          "age": 23,
+          "position": "DEF",
+          "rating": 77,
+          "price": 20000000
+        },
+        {
+          "id": 328,
+          "name": "Willy Boly",
+          "age": 33,
+          "position": "DEF",
+          "rating": 76,
+          "price": 8000000
+        },
+        {
+          "id": 329,
+          "name": "Andrew Omobamidele",
+          "age": 21,
+          "position": "DEF",
+          "rating": 75,
+          "price": 12000000
+        },
+        {
+          "id": 330,
+          "name": "Morgan Gibbs-White",
+          "age": 24,
+          "position": "MID",
+          "rating": 82,
+          "price": 45000000
+        },
+        {
+          "id": 331,
+          "name": "James Ward-Prowse",
+          "age": 29,
+          "position": "MID",
+          "rating": 80,
+          "price": 25000000
+        },
+        {
+          "id": 332,
+          "name": "Ibrahim Sangaré",
+          "age": 26,
+          "position": "MID",
+          "rating": 79,
+          "price": 30000000
+        },
+        {
+          "id": 333,
+          "name": "Nicolás Domínguez",
+          "age": 26,
+          "position": "MID",
+          "rating": 78,
+          "price": 20000000
+        },
+        {
+          "id": 334,
+          "name": "Danilo",
+          "age": 23,
+          "position": "MID",
+          "rating": 78,
+          "price": 25000000
+        },
+        {
+          "id": 335,
+          "name": "Elliot Anderson",
+          "age": 21,
+          "position": "MID",
+          "rating": 77,
+          "price": 25000000
+        },
+        {
+          "id": 336,
+          "name": "Ryan Yates",
+          "age": 26,
+          "position": "MID",
+          "rating": 77,
+          "price": 15000000
+        },
+        {
+          "id": 337,
+          "name": "Taiwo Awoniyi",
+          "age": 26,
+          "position": "FWD",
+          "rating": 79,
+          "price": 25000000
+        },
+        {
+          "id": 338,
+          "name": "Callum Hudson-Odoi",
+          "age": 23,
+          "position": "FWD",
+          "rating": 79,
+          "price": 30000000
+        },
+        {
+          "id": 339,
+          "name": "Anthony Elanga",
+          "age": 22,
+          "position": "FWD",
+          "rating": 78,
+          "price": 25000000
+        },
+        {
+          "id": 340,
+          "name": "Chris Wood",
+          "age": 32,
+          "position": "FWD",
+          "rating": 78,
+          "price": 15000000
+        },
+        {
+          "id": 341,
+          "name": "Ramón Sosa",
+          "age": 24,
+          "position": "FWD",
+          "rating": 76,
+          "price": 18000000
+        },
+        {
+          "id": 342,
+          "name": "Jota Silva",
+          "age": 24,
+          "position": "FWD",
+          "rating": 76,
+          "price": 15000000
+        }
+      ]
+    },
+    {
+      "name": "Southampton",
+      "budget": 40000000,
+      "stadium_name": "St. Mary's Stadium",
+      "capacity": 32384,
+      "players": [
+        {
+          "id": 343,
+          "name": "Aaron Ramsdale",
+          "age": 26,
+          "position": "GK",
+          "rating": 81,
+          "price": 25000000
+        },
+        {
+          "id": 344,
+          "name": "Alex McCarthy",
+          "age": 34,
+          "position": "GK",
+          "rating": 74,
+          "price": 3000000
+        },
+        {
+          "id": 345,
+          "name": "Kyle Walker-Peters",
+          "age": 27,
+          "position": "DEF",
+          "rating": 78,
+          "price": 20000000
+        },
+        {
+          "id": 346,
+          "name": "Taylor Harwood-Bellis",
+          "age": 22,
+          "position": "DEF",
+          "rating": 77,
+          "price": 25000000
+        },
+        {
+          "id": 347,
+          "name": "Jan Bednarek",
+          "age": 28,
+          "position": "DEF",
+          "rating": 76,
+          "price": 15000000
+        },
+        {
+          "id": 348,
+          "name": "Yukinari Sugawara",
+          "age": 24,
+          "position": "DEF",
+          "rating": 76,
+          "price": 18000000
+        },
+        {
+          "id": 349,
+          "name": "Charlie Taylor",
+          "age": 30,
+          "position": "DEF",
+          "rating": 75,
+          "price": 8000000
+        },
+        {
+          "id": 350,
+          "name": "Jack Stephens",
+          "age": 30,
+          "position": "DEF",
+          "rating": 74,
+          "price": 5000000
+        },
+        {
+          "id": 351,
+          "name": "Flynn Downes",
+          "age": 25,
+          "position": "MID",
+          "rating": 77,
+          "price": 20000000
+        },
+        {
+          "id": 352,
+          "name": "Joe Aribo",
+          "age": 27,
+          "position": "MID",
+          "rating": 76,
+          "price": 15000000
+        },
+        {
+          "id": 353,
+          "name": "Will Smallbone",
+          "age": 24,
+          "position": "MID",
+          "rating": 75,
+          "price": 12000000
+        },
+        {
+          "id": 354,
+          "name": "Mateus Fernandes",
+          "age": 20,
+          "position": "MID",
+          "rating": 75,
+          "price": 18000000
+        },
+        {
+          "id": 355,
+          "name": "Lesley Ugochukwu",
+          "age": 20,
+          "position": "MID",
+          "rating": 75,
+          "price": 15000000
+        },
+        {
+          "id": 356,
+          "name": "Adam Lallana",
+          "age": 36,
+          "position": "MID",
+          "rating": 74,
+          "price": 2000000
+        },
+        {
+          "id": 357,
+          "name": "Adam Armstrong",
+          "age": 27,
+          "position": "FWD",
+          "rating": 76,
+          "price": 15000000
+        },
+        {
+          "id": 358,
+          "name": "Ben Brereton Díaz",
+          "age": 25,
+          "position": "FWD",
+          "rating": 76,
+          "price": 18000000
+        },
+        {
+          "id": 359,
+          "name": "Cameron Archer",
+          "age": 22,
+          "position": "FWD",
+          "rating": 75,
+          "price": 20000000
+        },
+        {
+          "id": 360,
+          "name": "Ryan Fraser",
+          "age": 30,
+          "position": "FWD",
+          "rating": 75,
+          "price": 8000000
+        },
+        {
+          "id": 361,
+          "name": "Tyler Dibling",
+          "age": 18,
+          "position": "FWD",
+          "rating": 73,
+          "price": 10000000
+        }
+      ]
+    },
+    {
+      "name": "Tottenham Hotspur",
+      "budget": 120000000,
+      "stadium_name": "Tottenham Hotspur Stadium",
+      "capacity": 62850,
+      "players": [
+        {
+          "id": 362,
+          "name": "Guglielmo Vicario",
+          "age": 27,
+          "position": "GK",
+          "rating": 84,
+          "price": 40000000
+        },
+        {
+          "id": 363,
+          "name": "Fraser Forster",
+          "age": 36,
+          "position": "GK",
+          "rating": 75,
+          "price": 2000000
+        },
+        {
+          "id": 364,
+          "name": "Cristian Romero",
+          "age": 26,
+          "position": "DEF",
+          "rating": 85,
+          "price": 55000000
+        },
+        {
+          "id": 365,
+          "name": "Micky van de Ven",
+          "age": 23,
+          "position": "DEF",
+          "rating": 84,
+          "price": 55000000
+        },
+        {
+          "id": 366,
+          "name": "Pedro Porro",
+          "age": 24,
+          "position": "DEF",
+          "rating": 83,
+          "price": 45000000
+        },
+        {
+          "id": 367,
+          "name": "Destiny Udogie",
+          "age": 21,
+          "position": "DEF",
+          "rating": 82,
+          "price": 45000000
+        },
+        {
+          "id": 368,
+          "name": "Radu Drăgușin",
+          "age": 22,
+          "position": "DEF",
+          "rating": 79,
+          "price": 30000000
+        },
+        {
+          "id": 369,
+          "name": "Ben Davies",
+          "age": 31,
+          "position": "DEF",
+          "rating": 77,
+          "price": 10000000
+        },
+        {
+          "id": 370,
+          "name": "Djed Spence",
+          "age": 23,
+          "position": "DEF",
+          "rating": 76,
+          "price": 15000000
+        },
+        {
+          "id": 371,
+          "name": "James Maddison",
+          "age": 27,
+          "position": "MID",
+          "rating": 85,
+          "price": 60000000
+        },
+        {
+          "id": 372,
+          "name": "Dejan Kulusevski",
+          "age": 24,
+          "position": "MID",
+          "rating": 83,
+          "price": 50000000
+        },
+        {
+          "id": 373,
+          "name": "Rodrigo Bentancur",
+          "age": 27,
+          "position": "MID",
+          "rating": 82,
+          "price": 40000000
+        },
+        {
+          "id": 374,
+          "name": "Yves Bissouma",
+          "age": 27,
+          "position": "MID",
+          "rating": 81,
+          "price": 35000000
+        },
+        {
+          "id": 375,
+          "name": "Pape Matar Sarr",
+          "age": 21,
+          "position": "MID",
+          "rating": 80,
+          "price": 40000000
+        },
+        {
+          "id": 376,
+          "name": "Archie Gray",
+          "age": 18,
+          "position": "MID",
+          "rating": 76,
+          "price": 30000000
+        },
+        {
+          "id": 377,
+          "name": "Lucas Bergvall",
+          "age": 18,
+          "position": "MID",
+          "rating": 75,
+          "price": 20000000
+        },
+        {
+          "id": 378,
+          "name": "Son Heung-min",
+          "age": 31,
+          "position": "FWD",
+          "rating": 88,
+          "price": 65000000
+        },
+        {
+          "id": 379,
+          "name": "Dominic Solanke",
+          "age": 26,
+          "position": "FWD",
+          "rating": 83,
+          "price": 60000000
+        },
+        {
+          "id": 380,
+          "name": "Richarlison",
+          "age": 27,
+          "position": "FWD",
+          "rating": 81,
+          "price": 40000000
+        },
+        {
+          "id": 381,
+          "name": "Brennan Johnson",
+          "age": 23,
+          "position": "FWD",
+          "rating": 80,
+          "price": 45000000
+        },
+        {
+          "id": 382,
+          "name": "Timo Werner",
+          "age": 28,
+          "position": "FWD",
+          "rating": 79,
+          "price": 20000000
+        },
+        {
+          "id": 383,
+          "name": "Wilson Odobert",
+          "age": 19,
+          "position": "FWD",
+          "rating": 77,
+          "price": 25000000
+        },
+        {
+          "id": 384,
+          "name": "Mikey Moore",
+          "age": 16,
+          "position": "FWD",
+          "rating": 73,
+          "price": 10000000
+        }
+      ]
+    },
+    {
+      "name": "West Ham United",
+      "budget": 80000000,
+      "stadium_name": "London Stadium",
+      "capacity": 62500,
+      "players": [
+        {
+          "id": 385,
+          "name": "Alphonse Areola",
+          "age": 31,
+          "position": "GK",
+          "rating": 81,
+          "price": 18000000
+        },
+        {
+          "id": 386,
+          "name": "Łukasz Fabiański",
+          "age": 39,
+          "position": "GK",
+          "rating": 76,
+          "price": 2000000
+        },
+        {
+          "id": 387,
+          "name": "Max Kilman",
+          "age": 27,
+          "position": "DEF",
+          "rating": 80,
+          "price": 40000000
+        },
+        {
+          "id": 388,
+          "name": "Jean-Clair Todibo",
+          "age": 24,
+          "position": "DEF",
+          "rating": 81,
+          "price": 35000000
+        },
+        {
+          "id": 389,
+          "name": "Emerson",
+          "age": 29,
+          "position": "DEF",
+          "rating": 79,
+          "price": 20000000
+        },
+        {
+          "id": 390,
+          "name": "Aaron Wan-Bissaka",
+          "age": 26,
+          "position": "DEF",
+          "rating": 79,
+          "price": 20000000
+        },
+        {
+          "id": 391,
+          "name": "Vladimír Coufal",
+          "age": 31,
+          "position": "DEF",
+          "rating": 78,
+          "price": 12000000
+        },
+        {
+          "id": 392,
+          "name": "Konstantinos Mavropanos",
+          "age": 26,
+          "position": "DEF",
+          "rating": 78,
+          "price": 18000000
+        },
+        {
+          "id": 393,
+          "name": "Aaron Cresswell",
+          "age": 34,
+          "position": "DEF",
+          "rating": 75,
+          "price": 3000000
+        },
+        {
+          "id": 394,
+          "name": "Edson Álvarez",
+          "age": 26,
+          "position": "MID",
+          "rating": 82,
+          "price": 40000000
+        },
+        {
+          "id": 395,
+          "name": "Lucas Paquetá",
+          "age": 26,
+          "position": "MID",
+          "rating": 84,
+          "price": 65000000
+        },
+        {
+          "id": 396,
+          "name": "Tomáš Souček",
+          "age": 29,
+          "position": "MID",
+          "rating": 80,
+          "price": 25000000
+        },
+        {
+          "id": 397,
+          "name": "Guido Rodríguez",
+          "age": 30,
+          "position": "MID",
+          "rating": 80,
+          "price": 20000000
+        },
+        {
+          "id": 398,
+          "name": "Carlos Soler",
+          "age": 27,
+          "position": "MID",
+          "rating": 79,
+          "price": 25000000
+        },
+        {
+          "id": 399,
+          "name": "Jarrod Bowen",
+          "age": 27,
+          "position": "FWD",
+          "rating": 84,
+          "price": 65000000
+        },
+        {
+          "id": 400,
+          "name": "Mohammed Kudus",
+          "age": 23,
+          "position": "FWD",
+          "rating": 83,
+          "price": 60000000
+        },
+        {
+          "id": 401,
+          "name": "Niclas Füllkrug",
+          "age": 31,
+          "position": "FWD",
+          "rating": 80,
+          "price": 25000000
+        },
+        {
+          "id": 402,
+          "name": "Crysencio Summerville",
+          "age": 22,
+          "position": "FWD",
+          "rating": 79,
+          "price": 35000000
+        },
+        {
+          "id": 403,
+          "name": "Michail Antonio",
+          "age": 34,
+          "position": "FWD",
+          "rating": 77,
+          "price": 5000000
+        },
+        {
+          "id": 404,
+          "name": "Danny Ings",
+          "age": 31,
+          "position": "FWD",
+          "rating": 76,
+          "price": 6000000
+        }
+      ]
+    },
+    {
+      "name": "Wolverhampton Wanderers",
+      "budget": 55000000,
+      "stadium_name": "Molineux Stadium",
+      "capacity": 32050,
+      "players": [
+        {
+          "id": 405,
+          "name": "José Sá",
+          "age": 31,
+          "position": "GK",
+          "rating": 79,
+          "price": 15000000
+        },
+        {
+          "id": 406,
+          "name": "Sam Johnstone",
+          "age": 31,
+          "position": "GK",
+          "rating": 77,
+          "price": 10000000
+        },
+        {
+          "id": 407,
+          "name": "Rayan Aït-Nouri",
+          "age": 23,
+          "position": "DEF",
+          "rating": 80,
+          "price": 35000000
+        },
+        {
+          "id": 408,
+          "name": "Nélson Semedo",
+          "age": 30,
+          "position": "DEF",
+          "rating": 78,
+          "price": 15000000
+        },
+        {
+          "id": 409,
+          "name": "Craig Dawson",
+          "age": 34,
+          "position": "DEF",
+          "rating": 77,
+          "price": 5000000
+        },
+        {
+          "id": 410,
+          "name": "Toti Gomes",
+          "age": 25,
+          "position": "DEF",
+          "rating": 76,
+          "price": 15000000
+        },
+        {
+          "id": 411,
+          "name": "Yerson Mosquera",
+          "age": 23,
+          "position": "DEF",
+          "rating": 76,
+          "price": 15000000
+        },
+        {
+          "id": 412,
+          "name": "Matt Doherty",
+          "age": 32,
+          "position": "DEF",
+          "rating": 75,
+          "price": 5000000
+        },
+        {
+          "id": 413,
+          "name": "Santiago Bueno",
+          "age": 25,
+          "position": "DEF",
+          "rating": 75,
+          "price": 10000000
+        },
+        {
+          "id": 414,
+          "name": "João Gomes",
+          "age": 23,
+          "position": "MID",
+          "rating": 80,
+          "price": 35000000
+        },
+        {
+          "id": 415,
+          "name": "Mario Lemina",
+          "age": 30,
+          "position": "MID",
+          "rating": 80,
+          "price": 20000000
+        },
+        {
+          "id": 416,
+          "name": "Tommy Doyle",
+          "age": 22,
+          "position": "MID",
+          "rating": 76,
+          "price": 15000000
+        },
+        {
+          "id": 417,
+          "name": "Jean-Ricner Bellegarde",
+          "age": 26,
+          "position": "MID",
+          "rating": 76,
+          "price": 15000000
+        },
+        {
+          "id": 418,
+          "name": "André",
+          "age": 22,
+          "position": "MID",
+          "rating": 78,
+          "price": 25000000
+        },
+        {
+          "id": 419,
+          "name": "Matheus Cunha",
+          "age": 25,
+          "position": "FWD",
+          "rating": 82,
+          "price": 45000000
+        },
+        {
+          "id": 420,
+          "name": "Hwang Hee-chan",
+          "age": 28,
+          "position": "FWD",
+          "rating": 80,
+          "price": 25000000
+        },
+        {
+          "id": 421,
+          "name": "Jørgen Strand Larsen",
+          "age": 24,
+          "position": "FWD",
+          "rating": 78,
+          "price": 25000000
+        },
+        {
+          "id": 422,
+          "name": "Rodrigo Gomes",
+          "age": 20,
+          "position": "FWD",
+          "rating": 75,
+          "price": 15000000
+        },
+        {
+          "id": 423,
+          "name": "Carlos Forbs",
+          "age": 20,
+          "position": "FWD",
+          "rating": 75,
+          "price": 15000000
+        },
+        {
+          "id": 424,
+          "name": "Sasa Kalajdzic",
+          "age": 26,
+          "position": "FWD",
+          "rating": 76,
+          "price": 12000000
+        }
+      ]
+    }
+  ]
+}
